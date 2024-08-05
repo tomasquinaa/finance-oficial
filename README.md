@@ -1,1 +1,3 @@
-Terminei a aula 127. começar na aula 128
+Terminei a aula 132. começar na aula 133
+
+## Loading:  https://www.davidhu.io/react-spinners/
